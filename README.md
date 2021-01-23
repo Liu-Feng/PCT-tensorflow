@@ -10,5 +10,5 @@ pointnet2:    https://github.com/charlesq34/pointnet2
 
 PCT_Pytorch:  https://github.com/uyzhang/PCT_Pytorch  
 
-If there exist any errors, please contact me via commit issue or liufeng@radi.ac.cn
+If there exist any errors, please contact me via committing issue or liufeng@radi.ac.cn
 
